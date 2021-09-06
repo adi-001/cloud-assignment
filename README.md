@@ -1,5 +1,5 @@
 # cloud-assignment
-<b>2ICT704 assignment </b>
+<b>2ICT704 assignment </b> <br>
 Design Solution for :
 US-based ServeMe offers a point-of-sale (POS) app service to restaurants across Southeast Asia. The Apple iPad-based POS, for which restaurants subscribe on a monthly basis, delivers a range of restaurant services. These include table bookings, food orders, bill payments, and receipt printing. Today, ServeMe, which has 45+ employees, is the leading tablet-based POS system for restaurants in US. While many of its 2,500 customers are based in US, the company has been attracting restaurant owners in Singapore, Hong Kong, and Malaysia, with as many as 150 restaurants signing up for the ServeMe service each month.
  
